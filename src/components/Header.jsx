@@ -116,7 +116,7 @@ const Header = () => {
         <div className="flex justify-center items-center lg:gap-3 gap-1 ">
           <FaPhoneAlt className="size-5 text-red-600 " />
           <h1 className="lg:text-xl text-sm text-black dark:text-white font-semibold ">
-            978 456 0897
+            00000007739
           </h1>
         </div>
         <FaUserCircle className="size-6 text-red-600 " />

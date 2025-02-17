@@ -77,12 +77,12 @@ const Footer = () => {
           {/* sec */}
           <div className="flex justify-center items-center gap-3 ">
             <FaMobile className="text-white size-5" />
-            <p className="text-slate-200 ">+994 7643 6780</p>
+            <p className="text-slate-200 ">+73 8399922</p>
           </div>
           {/* third */}
           <div className="flex justify-center items-center gap-3 ">
             <FaFax className="text-white size-5" />
-            <p className="text-slate-200 ">9435 5433</p>
+            <p className="text-slate-200 ">0043 5433</p>
           </div>
           {/* fourth */}
           <div className="flex justify-center items-center gap-3 ">
